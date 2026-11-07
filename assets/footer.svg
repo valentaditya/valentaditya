@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170">
+  <defs>
+    <linearGradient id="deep" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22507a"/>
+      <stop offset="100%" stop-color="#0b1622"/>
+    </linearGradient>
+    <style>
+      .t { font-family: 'Segoe UI', 'Helvetica Neue', 'Noto Sans', 'Noto Sans JP', Arial, sans-serif; }
+      .w1 { animation: drift 12s linear infinite; }
+      .w2 { animation: drift 8s linear infinite reverse; }
+      .w3 { animation: drift 5s linear infinite; }
+      @keyframes drift { from { transform: translateX(0) } to { transform: translateX(-600px) } }
+      .bob { animation: bob 4s ease-in-out infinite; }
+      @keyframes bob { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-4px) } }
+    </style>
+  </defs>
+  <g class="w1" opacity="0.45">
+    <path fill="#7ec8e3" d="M0 50 Q150 36 300 50 T600 50 T900 50 T1200 50 T1500 50 T1800 50 V170 H0 Z"/>
+  </g>
+  <g class="w2" opacity="0.7">
+    <path fill="#3f6f96" d="M0 68 Q150 52 300 68 T600 68 T900 68 T1200 68 T1500 68 T1800 68 V170 H0 Z"/>
+  </g>
+  <g class="w3">
+    <path fill="url(#deep)" d="M0 88 Q150 72 300 88 T600 88 T900 88 T1200 88 T1500 88 T1800 88 V170 H0 Z"/>
+  </g>
+  <g class="t bob">
+    <text x="600" y="132" text-anchor="middle" font-size="18" fill="#d4ebf6" letter-spacing="1">thanks for visiting · see you by the shore ~</text>
+    <text x="600" y="156" text-anchor="middle" font-size="13" fill="#7ec8e3" fill-opacity="0.8" letter-spacing="3">また ね</text>
+  </g>
+</svg>

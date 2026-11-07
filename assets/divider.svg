@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 24" width="800" height="24">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7ec8e3" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7ec8e3"/>
+      <stop offset="100%" stop-color="#7ec8e3" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .w { animation: drift 5s linear infinite; }
+      @keyframes drift { from { transform: translateX(0) } to { transform: translateX(-80px) } }
+    </style>
+  </defs>
+  <g class="w">
+    <path fill="none" stroke="url(#g)" stroke-width="2" stroke-linecap="round"
+      d="M0 12 Q20 4 40 12 T80 12 T120 12 T160 12 T200 12 T240 12 T280 12 T320 12 T360 12 T400 12 T440 12 T480 12 T520 12 T560 12 T600 12 T640 12 T680 12 T720 12 T760 12 T800 12 T840 12 T880 12"/>
+  </g>
+  <circle cx="400" cy="12" r="3.5" fill="#ffd9b3"/>
+</svg>
