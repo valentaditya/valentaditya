@@ -29,7 +29,7 @@
 - 🐚 Siswa / mahasiswa **Rekayasa Perangkat Lunak**
 - 🌅 Lagi belajar **Node.js, Express & REST API**
 - 🧭 Tertarik sama **web dev** dan **mobile (APK)**
-- 🏝️ Anggota **@PISD-X-ANDIMA**
+- 🏝️ Anggota **@SANTAIINAJA.ID**
 - 💬 Ngobrol soal **JavaScript, anime, & ngoding santai**
 
 </td>
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valentaditya&theme=nord_dark" />
+<img width="100%" src="./assets/ocean-contrib.svg" alt="Contribution chart" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valentaditya&theme=nord_dark" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valentaditya&theme=nord_dark" />
