@@ -174,6 +174,7 @@
       <rect x="799" y="104" width="12" height="12" rx="3"/>
       <rect x="814" y="104" width="12" height="12" rx="3"/>
       <rect x="829" y="104" width="12" height="12" rx="3"/>
+      <rect x="844" y="104" width="12" height="12" rx="3"/>
       <rect x="64" y="119" width="12" height="12" rx="3"/>
       <rect x="79" y="119" width="12" height="12" rx="3"/>
       <rect x="94" y="119" width="12" height="12" rx="3"/>
@@ -403,7 +404,7 @@
   </defs>
   <g clip-path="url(#frame)">
   <rect width="900" height="280" fill="url(#bg)"/>
-  <text class="t" x="24" y="38" font-size="17" font-weight="700" fill="#ffffff">229 <tspan font-weight="400" fill="#d4ebf6">contributions in the last year</tspan></text>
+  <text class="t" x="24" y="38" font-size="17" font-weight="700" fill="#ffffff">234 <tspan font-weight="400" fill="#d4ebf6">contributions in the last year</tspan></text>
   <text class="t" x="876" y="38" text-anchor="end" font-size="13" fill="#7ec8e3" letter-spacing="2">朝凪 · TIDE CHART</text>
   <text class="t" x="109" y="64" font-size="11" fill="#8aa9bf">Dec</text>
   <text class="t" x="169" y="64" font-size="11" fill="#8aa9bf">Jan</text>
@@ -578,6 +579,7 @@
   <rect class="c" style="animation-delay:0.902s" x="799" y="104" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.920s" x="814" y="104" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.938s" x="829" y="104" width="12" height="12" rx="3" fill="#13263a"/>
+  <rect class="c" style="animation-delay:0.956s" x="844" y="104" width="12" height="12" rx="3" fill="#2f7fae"/>
   <rect class="c" style="animation-delay:0.030s" x="64" y="119" width="12" height="12" rx="3" fill="#5fb4d9"/>
   <rect class="c" style="animation-delay:0.048s" x="79" y="119" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.066s" x="94" y="119" width="12" height="12" rx="3" fill="#13263a"/>
@@ -807,7 +809,7 @@
   <rect x="796" y="202" width="12" height="12" rx="3" fill="#5fb4d9"/>
   <rect x="811" y="202" width="12" height="12" rx="3" fill="#bfeefe"/>
   <text class="t" x="832" y="212" font-size="11" fill="#8aa9bf">More</text>
-  <text class="t" x="64" y="212" font-size="11" fill="#8aa9bf" fill-opacity="0.75">updated 2026-11-09</text>
+  <text class="t" x="64" y="212" font-size="11" fill="#8aa9bf" fill-opacity="0.75">updated 2026-11-10</text>
   <g class="w1" opacity="0.5"><path fill="#7ec8e3" d="M0 246 Q50 238 100 246 T200 246 T300 246 T400 246 T500 246 T600 246 T700 246 T800 246 T900 246 T1000 246 T1100 246 T1200 246 V280 H0 Z"/></g>
   <g class="boat"><g transform="translate(0 244)"><g class="bob">
     <path d="M-16 0 L16 0 L11 7 L-11 7 Z" fill="#f4a68c"/>
