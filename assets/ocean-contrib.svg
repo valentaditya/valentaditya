@@ -227,6 +227,7 @@
       <rect x="799" y="119" width="12" height="12" rx="3"/>
       <rect x="814" y="119" width="12" height="12" rx="3"/>
       <rect x="829" y="119" width="12" height="12" rx="3"/>
+      <rect x="844" y="119" width="12" height="12" rx="3"/>
       <rect x="64" y="134" width="12" height="12" rx="3"/>
       <rect x="79" y="134" width="12" height="12" rx="3"/>
       <rect x="94" y="134" width="12" height="12" rx="3"/>
@@ -632,6 +633,7 @@
   <rect class="c" style="animation-delay:0.912s" x="799" y="119" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.930s" x="814" y="119" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.948s" x="829" y="119" width="12" height="12" rx="3" fill="#13263a"/>
+  <rect class="c" style="animation-delay:0.966s" x="844" y="119" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.040s" x="64" y="134" width="12" height="12" rx="3" fill="#5fb4d9"/>
   <rect class="c" style="animation-delay:0.058s" x="79" y="134" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.076s" x="94" y="134" width="12" height="12" rx="3" fill="#13263a"/>
@@ -809,7 +811,7 @@
   <rect x="796" y="202" width="12" height="12" rx="3" fill="#5fb4d9"/>
   <rect x="811" y="202" width="12" height="12" rx="3" fill="#bfeefe"/>
   <text class="t" x="832" y="212" font-size="11" fill="#8aa9bf">More</text>
-  <text class="t" x="64" y="212" font-size="11" fill="#8aa9bf" fill-opacity="0.75">updated 2026-11-10</text>
+  <text class="t" x="64" y="212" font-size="11" fill="#8aa9bf" fill-opacity="0.75">updated 2026-11-11</text>
   <g class="w1" opacity="0.5"><path fill="#7ec8e3" d="M0 246 Q50 238 100 246 T200 246 T300 246 T400 246 T500 246 T600 246 T700 246 T800 246 T900 246 T1000 246 T1100 246 T1200 246 V280 H0 Z"/></g>
   <g class="boat"><g transform="translate(0 244)"><g class="bob">
     <path d="M-16 0 L16 0 L11 7 L-11 7 Z" fill="#f4a68c"/>
