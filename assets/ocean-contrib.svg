@@ -121,6 +121,7 @@
       <rect x="799" y="89" width="12" height="12" rx="3"/>
       <rect x="814" y="89" width="12" height="12" rx="3"/>
       <rect x="829" y="89" width="12" height="12" rx="3"/>
+      <rect x="844" y="89" width="12" height="12" rx="3"/>
       <rect x="64" y="104" width="12" height="12" rx="3"/>
       <rect x="79" y="104" width="12" height="12" rx="3"/>
       <rect x="94" y="104" width="12" height="12" rx="3"/>
@@ -402,7 +403,7 @@
   </defs>
   <g clip-path="url(#frame)">
   <rect width="900" height="280" fill="url(#bg)"/>
-  <text class="t" x="24" y="38" font-size="17" font-weight="700" fill="#ffffff">235 <tspan font-weight="400" fill="#d4ebf6">contributions in the last year</tspan></text>
+  <text class="t" x="24" y="38" font-size="17" font-weight="700" fill="#ffffff">217 <tspan font-weight="400" fill="#d4ebf6">contributions in the last year</tspan></text>
   <text class="t" x="876" y="38" text-anchor="end" font-size="13" fill="#7ec8e3" letter-spacing="2">朝凪 · TIDE CHART</text>
   <text class="t" x="94" y="64" font-size="11" fill="#8aa9bf">Dec</text>
   <text class="t" x="154" y="64" font-size="11" fill="#8aa9bf">Jan</text>
@@ -524,6 +525,7 @@
   <rect class="c" style="animation-delay:0.892s" x="799" y="89" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.910s" x="814" y="89" width="12" height="12" rx="3" fill="#1f4e74"/>
   <rect class="c" style="animation-delay:0.928s" x="829" y="89" width="12" height="12" rx="3" fill="#1f4e74"/>
+  <rect class="c" style="animation-delay:0.946s" x="844" y="89" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.020s" x="64" y="104" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.038s" x="79" y="104" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.056s" x="94" y="104" width="12" height="12" rx="3" fill="#13263a"/>
@@ -569,7 +571,7 @@
   <rect class="c" style="animation-delay:0.776s" x="694" y="104" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.794s" x="709" y="104" width="12" height="12" rx="3" fill="#bfeefe"/>
   <rect class="c" style="animation-delay:0.812s" x="724" y="104" width="12" height="12" rx="3" fill="#2f7fae"/>
-  <rect class="c" style="animation-delay:0.830s" x="739" y="104" width="12" height="12" rx="3" fill="#5fb4d9"/>
+  <rect class="c" style="animation-delay:0.830s" x="739" y="104" width="12" height="12" rx="3" fill="#bfeefe"/>
   <rect class="c" style="animation-delay:0.848s" x="754" y="104" width="12" height="12" rx="3" fill="#2f7fae"/>
   <rect class="c" style="animation-delay:0.866s" x="769" y="104" width="12" height="12" rx="3" fill="#1f4e74"/>
   <rect class="c" style="animation-delay:0.884s" x="784" y="104" width="12" height="12" rx="3" fill="#13263a"/>
@@ -707,7 +709,7 @@
   <rect class="c" style="animation-delay:0.482s" x="424" y="149" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.500s" x="439" y="149" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.518s" x="454" y="149" width="12" height="12" rx="3" fill="#1f4e74"/>
-  <rect class="c" style="animation-delay:0.536s" x="469" y="149" width="12" height="12" rx="3" fill="#5fb4d9"/>
+  <rect class="c" style="animation-delay:0.536s" x="469" y="149" width="12" height="12" rx="3" fill="#bfeefe"/>
   <rect class="c" style="animation-delay:0.554s" x="484" y="149" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.572s" x="499" y="149" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.590s" x="514" y="149" width="12" height="12" rx="3" fill="#2f7fae"/>
@@ -782,7 +784,7 @@
   <rect class="c" style="animation-delay:0.906s" x="769" y="164" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.924s" x="784" y="164" width="12" height="12" rx="3" fill="#13263a"/>
   <rect class="c" style="animation-delay:0.942s" x="799" y="164" width="12" height="12" rx="3" fill="#13263a"/>
-  <rect class="c" style="animation-delay:0.960s" x="814" y="164" width="12" height="12" rx="3" fill="#5fb4d9"/>
+  <rect class="c" style="animation-delay:0.960s" x="814" y="164" width="12" height="12" rx="3" fill="#bfeefe"/>
   <rect class="c" style="animation-delay:0.978s" x="829" y="164" width="12" height="12" rx="3" fill="#13263a"/>
   <g clip-path="url(#cells)"><rect class="shine" x="-156" y="74" width="200" height="102" fill="url(#shine)"/></g>
   <use class="tw" href="#spark" x="340.0" y="80.0" fill="#ffffff" style="animation-delay:0.00s"/>
@@ -803,7 +805,7 @@
   <rect x="796" y="202" width="12" height="12" rx="3" fill="#5fb4d9"/>
   <rect x="811" y="202" width="12" height="12" rx="3" fill="#bfeefe"/>
   <text class="t" x="832" y="212" font-size="11" fill="#8aa9bf">More</text>
-  <text class="t" x="64" y="212" font-size="11" fill="#8aa9bf" fill-opacity="0.75">updated 2026-11-15</text>
+  <text class="t" x="64" y="212" font-size="11" fill="#8aa9bf" fill-opacity="0.75">updated 2026-11-16</text>
   <g class="w1" opacity="0.5"><path fill="#7ec8e3" d="M0 246 Q50 238 100 246 T200 246 T300 246 T400 246 T500 246 T600 246 T700 246 T800 246 T900 246 T1000 246 T1100 246 T1200 246 V280 H0 Z"/></g>
   <g class="boat"><g transform="translate(0 244)"><g class="bob">
     <path d="M-16 0 L16 0 L11 7 L-11 7 Z" fill="#f4a68c"/>
